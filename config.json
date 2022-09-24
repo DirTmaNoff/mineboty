@@ -3,6 +3,7 @@
     "port": "12469",
     "name": "debil",
     "auto-night-skip": "false",
+    "prefix": "",
     "auto-reconnect": "true",
     "web": "true"
     
